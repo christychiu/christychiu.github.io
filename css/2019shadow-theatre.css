@@ -1,0 +1,97 @@
+.version._2019shadow_theatre /* version checker */
+{
+	color: #00001A;
+	background-color: #9BEB87;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 413px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 25px 20px 62px;
+}
+
+#pu270-4
+{
+	width: 0.01px;
+}
+
+#u270-4
+{
+	z-index: 10;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+}
+
+#u268-4
+{
+	z-index: 2;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+	left: 230px;
+}
+
+#u269-4
+{
+	z-index: 6;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+	left: 690px;
+}
+
+#u270-4_img,#u268-4_img,#u269-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u280
+{
+	z-index: 14;
+	width: 465px;
+	height: 252px;
+	margin-left: 227px;
+	margin-top: 38px;
+	position: relative;
+	background: transparent url("../images/%e8%9e%a2%e5%b9%95%e6%88%aa%e5%9c%96%202019-06-11%20%e4%b8%8b%e5%8d%8815551.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u285-13
+{
+	z-index: 15;
+	display: block;
+	vertical-align: top;
+	margin-left: 227px;
+	margin-top: 49px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

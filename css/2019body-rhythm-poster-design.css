@@ -1,0 +1,101 @@
+.version._2019body_rhythm_poster_design /* version checker */
+{
+	color: #00000F;
+	background-color: #3CC6EF;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 439px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 61px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u264-4
+{
+	z-index: 10;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 20px;
+}
+
+#pu262-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 25px;
+	margin-left: 250px;
+}
+
+#u262-4
+{
+	z-index: 2;
+	position: relative;
+}
+
+#u276
+{
+	z-index: 14;
+	width: 407px;
+	height: 576px;
+	margin-left: 26px;
+	margin-top: 36px;
+	position: relative;
+	background: transparent url("../images/54361729_555257251648238_4540543896668602368_o.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u289-13
+{
+	z-index: 15;
+	display: block;
+	vertical-align: top;
+	margin-left: 26px;
+	margin-top: 44px;
+	position: relative;
+}
+
+#u263-4
+{
+	z-index: 6;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 710px;
+}
+
+#u264-4_img,#u262-4_img,#u263-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

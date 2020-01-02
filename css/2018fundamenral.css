@@ -1,0 +1,97 @@
+.version._2018fundamenral /* version checker */
+{
+	color: #0000F3;
+	background-color: #5206E5;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 414px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 25px 20px 61px;
+}
+
+#pu273-4
+{
+	width: 0.01px;
+}
+
+#u273-4
+{
+	z-index: 10;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+}
+
+#u271-4
+{
+	z-index: 2;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+	left: 230px;
+}
+
+#u272-4
+{
+	z-index: 6;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+	left: 690px;
+}
+
+#u273-4_img,#u271-4_img,#u272-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u282
+{
+	z-index: 14;
+	width: 495px;
+	height: 359px;
+	margin-left: 213px;
+	margin-top: 34px;
+	position: relative;
+	background: transparent url("../images/dsc_0801.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u284-13
+{
+	z-index: 15;
+	display: block;
+	vertical-align: top;
+	margin-left: 212px;
+	margin-top: 44px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

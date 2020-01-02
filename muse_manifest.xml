@@ -1,0 +1,75 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.christychiu.com.hk" resolutions="1x" timestamp="1577982351524">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="portfolio.css" crc="3909521466" ref="portfolio"/>
+    <file name="index.css" crc="3937394537" ref="index"/>
+    <file name="contact.css" crc="3855108508" ref="contact"/>
+    <file name="2019taishin-charity-foundation-design.css" crc="140838455" ref="2019taishin-charity-foundation-design"/>
+    <file name="2019body-rhythm-poster-design.css" crc="255641327" ref="2019body-rhythm-poster-design"/>
+    <file name="2018fundamenral.css" crc="4082239205" ref="2018fundamenral"/>
+    <file name="2019lights-carrier.css" crc="4189152893" ref="2019lights-carrier"/>
+    <file name="2019shadow-theatre.css" crc="446425991" ref="2019shadow-theatre"/>
+  </folder>
+  <folder name="assets">
+    <file name="final.jpg" crc="4166856576" seo="true" mt="1543690891000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:portfolio:contact:2019shadow-theatre:2019lights-carrier:2019body-rhythm-poster-design:2019taishin-charity-foundation-design:2018fundamenral"/>
+    <file name="museutils.js" crc="183364071" ref="index:portfolio:contact:2019shadow-theatre:2019lights-carrier:2019body-rhythm-poster-design:2019taishin-charity-foundation-design:2018fundamenral"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:portfolio:contact:2019shadow-theatre:2019lights-carrier:2019body-rhythm-poster-design:2019taishin-charity-foundation-design:2018fundamenral"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:portfolio:contact:2019shadow-theatre:2019lights-carrier:2019body-rhythm-poster-design:2019taishin-charity-foundation-design:2018fundamenral"/>
+  </folder>
+  <folder name="images">
+    <file name="00023.jpg" crc="78204949" ref="index"/>
+    <file name="u119-4.png" crc="364420955" ref="index"/>
+    <file name="u120-4.png" crc="275483252" ref="index"/>
+    <file name="u136-4.png" crc="3797513286" ref="portfolio"/>
+    <file name="u133-4-a.png" crc="159898722" ref="portfolio"/>
+    <file name="趙雪瀅_主視覺 _01.jpg" crc="3939378017" ref="portfolio:2019taishin-charity-foundation-design"/>
+    <file name="img_1293.jpg" crc="3936156435" ref="portfolio:2019lights-carrier"/>
+    <file name="dsc_0801.jpg" crc="239261164" ref="portfolio:2018fundamenral"/>
+    <file name="u134-4.png" crc="211716419" ref="portfolio"/>
+    <file name="54361729_555257251648238_4540543896668602368_o.jpg" crc="465681191" ref="portfolio:2019body-rhythm-poster-design"/>
+    <file name="螢幕截圖 2019-06-11 下午15551.jpg" crc="3886769961" ref="portfolio:2019shadow-theatre"/>
+    <file name="u183-4.png" crc="444163749" ref="portfolio"/>
+    <file name="u184-4.png" crc="315503582" ref="portfolio"/>
+    <file name="u199-4.png" crc="4195275132" ref="portfolio"/>
+    <file name="u208-4.png" crc="105190861" ref="portfolio"/>
+    <file name="u210-4.png" crc="453152272" ref="portfolio"/>
+    <file name="u146-4.png" crc="3797513286" ref="contact"/>
+    <file name="u143-4.png" crc="159898722" ref="contact"/>
+    <file name="u217-10.png" crc="74241705" ref="contact"/>
+    <file name="u144-4-a.png" crc="211716419" ref="contact"/>
+    <file name="0007 2.jpg" crc="4053602417" ref="contact"/>
+    <file name="u270-4.png" crc="3797513286" ref="2019shadow-theatre"/>
+    <file name="u268-4.png" crc="159898722" ref="2019shadow-theatre"/>
+    <file name="u269-4.png" crc="211716419" ref="2019shadow-theatre"/>
+    <file name="u285-13.png" crc="133981688" ref="2019shadow-theatre"/>
+    <file name="u267-4.png" crc="3797513286" ref="2019lights-carrier"/>
+    <file name="u265-4.png" crc="159898722" ref="2019lights-carrier"/>
+    <file name="u266-4.png" crc="211716419" ref="2019lights-carrier"/>
+    <file name="u279-4.png" crc="105190861" ref="2019lights-carrier"/>
+    <file name="u288-13.png" crc="4111623735" ref="2019lights-carrier"/>
+    <file name="u264-4.png" crc="3797513286" ref="2019body-rhythm-poster-design"/>
+    <file name="u262-4.png" crc="159898722" ref="2019body-rhythm-poster-design"/>
+    <file name="u289-13.png" crc="283011145" ref="2019body-rhythm-poster-design"/>
+    <file name="u263-4.png" crc="211716419" ref="2019body-rhythm-poster-design"/>
+    <file name="u261-4.png" crc="3797513286" ref="2019taishin-charity-foundation-design"/>
+    <file name="u259-4.png" crc="159898722" ref="2019taishin-charity-foundation-design"/>
+    <file name="u260-4.png" crc="211716419" ref="2019taishin-charity-foundation-design"/>
+    <file name="u290-8.png" crc="473001522" ref="2019taishin-charity-foundation-design"/>
+    <file name="u273-4.png" crc="3797513286" ref="2018fundamenral"/>
+    <file name="u271-4.png" crc="159898722" ref="2018fundamenral"/>
+    <file name="u272-4.png" crc="211716419" ref="2018fundamenral"/>
+    <file name="u284-13.png" crc="512285831" ref="2018fundamenral"/>
+  </folder>
+  <file name="index.html" crc="109378984" seo="true" mt="1577981012612" redirect="true"/>
+  <file name="portfolio.html" crc="4020970770" seo="true" mt="1577982303818" redirect="true"/>
+  <file name="contact.html" crc="272994408" seo="true" mt="1577981478678" redirect="true"/>
+  <file name="2019shadow-theatre.html" crc="436735295" seo="true" mt="1577982303817" redirect="true"/>
+  <file name="2019lights-carrier.html" crc="53695906" seo="true" mt="1577982227402" redirect="true"/>
+  <file name="2019body-rhythm-poster-design.html" crc="3987035570" seo="true" mt="1577982223921" redirect="true"/>
+  <file name="2019taishin-charity-foundation-design.html" crc="4151349448" seo="true" mt="1577982251554" redirect="true"/>
+  <file name="2018fundamenral.html" crc="215724652" seo="true" mt="1577982232207" redirect="true"/>
+</manifest>

@@ -1,0 +1,110 @@
+.version.contact /* version checker */
+{
+	color: #0000E5;
+	background-color: #C8499C;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 367px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 133px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ppu146-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 25px;
+	margin-left: 20px;
+}
+
+#pu146-4
+{
+	width: 0.01px;
+}
+
+#u146-4
+{
+	z-index: 10;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+}
+
+#u143-4
+{
+	z-index: 2;
+	position: relative;
+	width: 230px;
+	margin-right: -10000px;
+	left: 230px;
+}
+
+#u217-10
+{
+	z-index: 14;
+	display: block;
+	vertical-align: top;
+	margin-left: 124px;
+	margin-top: 22px;
+	position: relative;
+}
+
+#pu144-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 25px;
+	margin-left: 480px;
+}
+
+#u144-4
+{
+	z-index: 6;
+	margin-left: 230px;
+	position: relative;
+}
+
+#u146-4_img,#u143-4_img,#u144-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u219
+{
+	z-index: 24;
+	width: 336px;
+	height: 259px;
+	margin-top: 22px;
+	position: relative;
+	background: transparent url("../images/0007%202.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
